@@ -23,9 +23,11 @@
 
 - ⚡ Fun fact **Sea otters hold hands when they sleep. This adorable behavior prevents them from drifting apart while they float on the water.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: </h3>
 <p align="left">
 <a href="https://discord.gg/Protege07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Protege07" height="30" width="40" /></a>
+</p>  
+<p>Portfolio <a href="https://devsquality.netlify.app/"> here </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
